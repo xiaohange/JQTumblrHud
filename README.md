@@ -1,4 +1,4 @@
-#JQTumblrHud
+## JQTumblrHud
 
 JQTumblrHud 是进度透明指示层，可以指定大小、颜色。高仿 Tumblr App 加载指示器hud，使用方便！
 
@@ -25,6 +25,8 @@ tumblrHUD.hudColor = [UIColor lightGrayColor];
 
 [tumblrHUD showAnimated:YES];
 ```
+## Star
+>iOS开发者交流群：446310206 喜欢就❤️❤️❤️star一下吧！你的支持是我更新的动力！ Love is every every every star! Your support is my renewed motivation!
 
 ## License
 
