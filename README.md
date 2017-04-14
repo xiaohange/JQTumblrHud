@@ -3,7 +3,7 @@ JQTumblrHud 是进度透明指示层，可以指定大小、颜色。高仿 Tumb
 
 JQTumblrHud is the progress transparent indicator layer, you can specify the size, color. High imitation Tumblr App loading indicator HUD, easy to use!
 
-![]()
+![](https://github.com/xiaohange/JQTumblrHud/blob/master/JQTumblrHudDemo/JQTumblrHudDemo/demo.gif?raw=true)
 
 ## Instalation
 
